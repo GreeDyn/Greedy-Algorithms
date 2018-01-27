@@ -1,2 +1,2 @@
 # Greedy-Algoritms
-This is a dedicated repo for greedy algorithms, their applications and research.
+This is a dedicated repository for greedy algorithms, their applications and research.
